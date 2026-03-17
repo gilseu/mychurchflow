@@ -1,4 +1,8 @@
-https://app.mychurchflow.app/*  https://mychurchflow.app/br/app.html  301!
-http://app.mychurchflow.app/*   https://mychurchflow.app/br/app.html  301!
-https://app.mychurchflow.app/*  /br/app.html  200
-http://app.mychurchflow.app/*   /br/app.html  200
+https://app.mychurchflow.app/*  https://mychurchflow.app/app.html  301!
+http://app.mychurchflow.app/*   https://mychurchflow.app/app.html  301!
+https://app.mychurchflow.app/*  /app.html  200
+http://app.mychurchflow.app/*   /app.html  200
+https://admin.mychurchflow.app/*  https://mychurchflow.app/myadmin/plano.html  301!
+http://admin.mychurchflow.app/*   https://mychurchflow.app/myadmin/plano.html  301!
+https://admin.mychurchflow.app/*  /myadmin/plano.html  200
+http://admin.mychurchflow.app/*   /myadmin/plano.html  200
